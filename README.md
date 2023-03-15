@@ -44,3 +44,4 @@ fig.update_layout(title=f'HK-model on d={dim}, n={n}, epsilon={epsilon}, with th
     
 fig.show()
 ```
+![exampleplot](/img/exampleplot.PNG "example plot")
