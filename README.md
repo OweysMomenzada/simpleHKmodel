@@ -3,6 +3,15 @@
 This implementation was developed in the context of a seminar at the UHH.
 Note that this notebook is only for explanation purposes, it does not consider error handling, such as division by zero.
 
+
+## Installation
+First install the HK model: 
+```
+$ pip install git+https://github.com/OweysMomenzada/simpleHKmodel.git
+```
+
+
+
 ### Example usage
 ```
 from HKmodel import model, agentsgenerator as ag
